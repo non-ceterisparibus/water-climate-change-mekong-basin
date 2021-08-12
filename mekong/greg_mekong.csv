@@ -1,0 +1,372 @@
+_id,FIPS_CNTRY,GROUP1,GROUP2,GROUP3,G1ID,G2ID,G3ID,G1SHORTNAM,G2SHORTNAM,G3SHORTNAM,G1LONGNAM,G2LONGNAM,G3LONGNAM,FeatureID,AREA,COW
+0,BM,6,0,0,632,0,0,Lisu,,,Lisu,,,280,2.71E+09,775
+1,BM,6,0,0,632,0,0,Lisu,,,Lisu,,,281,2.13E+09,775
+2,BM,27,0,0,275,0,0,Chinese (Han),,,Chinese (Han),,,282,1.58E+09,775
+3,BM,20,0,0,988,0,0,Shan,,,Shan,,,283,1.11E+09,775
+4,BM,1,0,0,217,0,0,Burmese,,,Burmese,,,284,2.35E+09,775
+5,BM,20,0,0,988,0,0,Shan,,,Shan,,,285,6.84E+09,775
+6,BM,20,0,0,988,0,0,Shan,,,Shan,,,286,2.12E+09,775
+7,BM,1,0,0,217,0,0,Burmese,,,Burmese,,,287,4.82E+08,775
+8,BM,3,0,0,507,0,0,Kachins,,,Kachins (Singpho),,,288,5.81E+10,775
+9,BM,4,0,0,795,0,0,Nagas,,,"Nagas (Ao, Sema, Lhota, Rengma, etc.)",,,289,7.69E+09,775
+10,BM,20,0,0,988,0,0,Shan,,,Shan,,,290,2.59E+10,775
+11,BM,6,0,0,632,0,0,Lisu,,,Lisu,,,291,1.77E+09,775
+12,BM,20,0,0,988,0,0,Shan,,,Shan,,,292,8.26E+08,775
+13,BM,3,0,0,507,0,0,Kachins,,,Kachins (Singpho),,,293,7.65E+08,775
+14,BM,3,0,0,507,0,0,Kachins,,,Kachins (Singpho),,,294,6.45E+09,775
+15,BM,6,0,0,632,0,0,Lisu,,,Lisu,,,295,1.04E+09,775
+16,BM,27,0,0,275,0,0,Chinese (Han),,,Chinese (Han),,,296,6.89E+08,775
+17,BM,47,0,0,861,0,0,Palaung,,,Palaung,,,297,1.68E+09,775
+18,BM,20,0,0,988,0,0,Shan,,,Shan,,,298,3.92E+09,775
+19,BM,1,20,0,217,988,0,Burmese,Shan,,Burmese,Shan,,299,2.97E+09,775
+20,BM,47,0,0,861,0,0,Palaung,,,Palaung,,,300,4.35E+09,775
+21,BM,5,0,0,609,0,0,Lahu,,,Lahu,,,301,5.77E+08,775
+22,BM,46,0,0,1177,0,0,Wa,,,Wa (Kawa),,,302,9.36E+09,775
+23,BM,7,0,0,430,0,0,Hani,,,"Hani (Akha, Uni, Xapho, Cosung, Cote,Khape)",,,303,1.77E+09,775
+24,BM,7,0,0,430,0,0,Hani,,,"Hani (Akha, Uni, Xapho, Cosung, Cote,Khape)",,,304,3.55E+09,775
+25,BM,5,0,0,609,0,0,Lahu,,,Lahu,,,305,2.33E+09,775
+26,BM,24,0,0,1229,0,0,Yao,,,Yao,,,306,2.84E+08,775
+27,BM,13,0,0,616,0,0,Lao,,,Lao,,,307,3.20E+09,775
+28,BM,20,0,0,988,0,0,Shan,,,Shan,,,308,8.29E+10,775
+29,BM,11,0,0,535,0,0,Karen,,,Karen,,,309,1.02E+10,775
+30,BM,20,0,0,988,0,0,Shan,,,Shan,,,310,2.22E+09,775
+31,BM,20,0,0,988,0,0,Shan,,,Shan,,,311,1.27E+09,775
+32,BM,10,0,0,540,0,0,Kayah,,,Kayah,,,312,1.28E+10,775
+33,BM,11,0,0,535,0,0,Karen,,,Karen,,,313,1.02E+10,775
+34,BM,1,0,0,217,0,0,Burmese,,,Burmese,,,314,1.15E+09,775
+35,BM,45,0,0,760,0,0,Mon (Talaing),,,Mon (Talaing),,,315,1.37E+10,775
+36,BM,1,62,0,217,169,0,Burmese,Bengalis,,Burmese,Bengalis,,316,7.82E+08,775
+37,BM,1,62,0,217,169,0,Burmese,Bengalis,,Burmese,Bengalis,,317,7.20E+08,775
+38,BM,11,0,0,535,0,0,Karen,,,Karen,,,318,2.76E+08,775
+39,BM,11,0,0,535,0,0,Karen,,,Karen,,,319,2.56E+10,775
+40,BM,11,0,0,535,0,0,Karen,,,Karen,,,320,1.25E+09,775
+41,BM,1,62,0,217,169,0,Burmese,Bengalis,,Burmese,Bengalis,,321,3.44E+09,775
+42,BM,2,0,0,1257,0,0,Chini,,,Chini,,,322,4.51E+10,775
+43,BM,1,0,0,217,0,0,Burmese,,,Burmese,,,323,2.30E+11,775
+44,BM,21,0,0,562,0,0,Khun,,,Khun,,,324,6.09E+09,775
+45,BM,21,0,0,562,0,0,Khun,,,Khun,,,325,1.17E+09,775
+46,BM,3,0,0,507,0,0,Kachins,,,Kachins (Singpho),,,326,7.64E+08,775
+47,BM,46,0,0,1177,0,0,Wa,,,Wa (Kawa),,,327,9.78E+08,775
+48,BM,46,0,0,1177,0,0,Wa,,,Wa (Kawa),,,328,8.83E+08,775
+49,BM,3,0,0,507,0,0,Kachins,,,Kachins (Singpho),,,329,8.49E+08,775
+50,BM,5,0,0,609,0,0,Lahu,,,Lahu,,,330,2.38E+09,775
+51,BM,1,0,0,217,0,0,Burmese,,,Burmese,,,331,1.13E+09,775
+52,BM,20,0,0,988,0,0,Shan,,,Shan,,,332,1.29E+09,775
+53,BM,1,11,0,217,535,0,Burmese,Karen,,Burmese,Karen,,333,1.33E+09,775
+54,BM,11,0,0,535,0,0,Karen,,,Karen,,,334,7.49E+08,775
+55,BM,2,0,0,1257,0,0,Chini,,,Chini,,,335,2.69E+09,775
+56,BM,11,0,0,535,0,0,Karen,,,Karen,,,336,7.45E+08,775
+57,BM,11,0,0,535,0,0,Karen,,,Karen,,,337,1.40E+09,775
+58,BM,11,0,0,535,0,0,Karen,,,Karen,,,338,5.58E+08,775
+59,BM,11,0,0,535,0,0,Karen,,,Karen,,,339,5.26E+08,775
+60,BM,1,11,0,217,535,0,Burmese,Karen,,Burmese,Karen,,340,4.47E+09,775
+61,BM,60,0,0,975,0,0,Selung,,,Selung,,,341,4.61E+08,775
+62,BM,1,0,0,217,0,0,Burmese,,,Burmese,,,342,2.61E+10,775
+63,BM,1,62,0,217,169,0,Burmese,Bengalis,,Burmese,Bengalis,,343,1.30E+08,775
+64,BM,1,0,0,217,0,0,Burmese,,,Burmese,,,344,1.62E+08,775
+65,BM,1,0,0,217,0,0,Burmese,,,Burmese,,,345,1.39E+09,775
+66,BM,1,0,0,217,0,0,Burmese,,,Burmese,,,346,4.71E+08,775
+67,BM,1,0,0,217,0,0,Burmese,,,Burmese,,,347,6.64E+08,775
+68,BM,1,0,0,217,0,0,Burmese,,,Burmese,,,348,4.83E+08,775
+69,BM,9,0,0,827,0,0,Nua,,,Nua,,,349,7.76E+09,775
+70,BM,45,0,0,760,0,0,Mon (Talaing),,,Mon (Talaing),,,350,4.04E+08,775
+71,BM,60,0,0,975,0,0,Selung,,,Selung,,,351,1.63E+08,775
+72,BM,60,0,0,975,0,0,Selung,,,Selung,,,352,1.26E+08,775
+73,BM,1,0,0,217,0,0,Burmese,,,Burmese,,,353,1.95E+08,775
+74,BM,60,0,0,975,0,0,Selung,,,Selung,,,354,1.79E+08,775
+75,BM,1,0,0,217,0,0,Burmese,,,Burmese,,,355,3.00E+08,775
+76,BM,1,0,0,217,0,0,Burmese,,,Burmese,,,356,4.93E+08,775
+77,BM,60,0,0,975,0,0,Selung,,,Selung,,,357,4.51E+08,775
+78,BM,60,0,0,975,0,0,Selung,,,Selung,,,358,2.70E+08,775
+79,BM,1,62,0,217,169,0,Burmese,Bengalis,,Burmese,Bengalis,,359,2.98E+09,775
+80,BM,1,0,0,217,0,0,Burmese,,,Burmese,,,360,1.02E+09,775
+81,CB,30,54,0,557,676,0,Khmers,Malays of Malaya,,Khmers,Malays of Malaya,,1033,1.42E+09,811
+82,CB,28,30,0,1176,557,0,Vietnamese,Khmers,,Vietnamese (Kinh),Khmers,,1034,6.46E+08,811
+83,CB,30,32,0,557,1026,0,Khmers,Stieng,,Khmers,Stieng,,1035,2.38E+09,811
+84,CB,32,0,0,1026,0,0,Stieng,,,Stieng,,,1036,2.85E+09,811
+85,CB,43,0,0,649,0,0,Ma,,,"Ma (incl. Lat, Lagia, Tolop, Kasseng, Tola)",,,1037,2.39E+08,811
+86,CB,56,0,0,495,0,0,Jarai,,,Jarai,,,1038,2.34E+09,811
+87,CB,30,33,0,557,592,0,Khmers,Kui,,Khmers,Kui,,1039,1.81E+09,811
+88,CB,13,0,0,616,0,0,Lao,,,Lao,,,1040,1.65E+09,811
+89,CB,13,30,0,616,557,0,Lao,Khmers,,Lao,Khmers,,1041,3.86E+09,811
+90,CB,30,0,0,557,0,0,Khmers,,,Khmers,,,1042,3.29E+08,811
+91,CB,33,0,0,592,0,0,Kui,,,Kui,,,1043,1.99E+09,811
+92,CB,30,33,0,557,592,0,Khmers,Kui,,Khmers,Kui,,1044,9.87E+09,811
+93,CB,33,0,0,592,0,0,Kui,,,Kui,,,1045,7.88E+08,811
+94,CB,30,0,0,557,0,0,Khmers,,,Khmers,,,1046,1.18E+11,811
+95,CB,33,0,0,592,0,0,Kui,,,Kui,,,1047,5.56E+08,811
+96,CB,12,30,0,1004,557,0,Siamese,Khmers,,Siamese (Khon-Tai),Khmers,,1048,8.04E+08,811
+97,CB,28,30,0,1176,557,0,Vietnamese,Khmers,,Vietnamese (Kinh),Khmers,,1049,9.37E+08,811
+98,CB,28,30,0,1176,557,0,Vietnamese,Khmers,,Vietnamese (Kinh),Khmers,,1050,1.14E+09,811
+99,CB,30,33,0,557,592,0,Khmers,Kui,,Khmers,Kui,,1051,2.30E+09,811
+100,CB,28,30,0,1176,557,0,Vietnamese,Khmers,,Vietnamese (Kinh),Khmers,,1052,8.29E+08,811
+101,CB,30,55,0,557,259,0,Khmers,Cham,,Khmers,Cham,,1053,1.50E+09,811
+102,CB,30,55,0,557,259,0,Khmers,Cham,,Khmers,Cham,,1054,1.01E+09,811
+103,CB,31,0,0,756,0,0,Mnong and Brao,,,Mnong and Brao,,,1055,2.41E+10,811
+104,CB,36,0,0,193,0,0,Boloven,,,Boloven,,,1056,1.03E+09,811
+105,LA,13,30,0,616,557,0,Lao,Khmers,,Lao,Khmers,,3520,2.16E+08,812
+106,LA,36,0,0,193,0,0,Boloven,,,Boloven,,,3521,6.29E+09,812
+107,LA,31,0,0,756,0,0,Mnong and Brao,,,Mnong and Brao,,,3522,3.52E+09,812
+108,LA,13,0,0,616,0,0,Lao,,,Lao,,,3523,1.12E+09,812
+109,LA,41,0,0,973,0,0,Sedang,,,Sedang (incl. Rongao),,,3524,4.09E+09,812
+110,LA,30,0,0,557,0,0,Khmers,,,Khmers,,,3525,8.72E+08,812
+111,LA,33,0,0,592,0,0,Kui,,,Kui,,,3526,1.91E+09,812
+112,LA,13,0,0,616,0,0,Lao,,,Lao,,,3527,8.11E+08,812
+113,LA,15,0,0,1087,0,0,"Thai (incl. Thai Nea, Thai Pho)",,,"Thai (incl. Thai Nea, Thai Phong, Phutai)",,,3528,4.76E+08,812
+114,LA,37,0,0,1171,0,0,Vankieu,,,"Vankieu (incl. Ruk, May, Bru, Khua, Toi-Oi)",,,3529,3.74E+08,812
+115,LA,35,0,0,1029,0,0,Sui,,,Sui (incl. Alak),,,3530,2.06E+10,812
+116,LA,15,0,0,1087,0,0,"Thai (incl. Thai Nea, Thai Pho)",,,"Thai (incl. Thai Nea, Thai Phong, Phutai)",,,3531,3.36E+08,812
+117,LA,34,0,0,188,0,0,Bo and So,,,Bo and So,,,3532,1.58E+09,812
+118,LA,15,0,0,1087,0,0,"Thai (incl. Thai Nea, Thai Pho)",,,"Thai (incl. Thai Nea, Thai Phong, Phutai)",,,3533,3.33E+09,812
+119,LA,15,0,0,1087,0,0,"Thai (incl. Thai Nea, Thai Pho)",,,"Thai (incl. Thai Nea, Thai Phong, Phutai)",,,3534,3.79E+08,812
+120,LA,34,0,0,188,0,0,Bo and So,,,Bo and So,,,3535,5.99E+09,812
+121,LA,37,0,0,1171,0,0,Vankieu,,,"Vankieu (incl. Ruk, May, Bru, Khua, Toi-Oi)",,,3536,1.02E+09,812
+122,LA,15,0,0,1087,0,0,"Thai (incl. Thai Nea, Thai Pho)",,,"Thai (incl. Thai Nea, Thai Phong, Phutai)",,,3537,4.88E+08,812
+123,LA,34,0,0,188,0,0,Bo and So,,,Bo and So,,,3538,4.24E+09,812
+124,LA,15,0,0,1087,0,0,"Thai (incl. Thai Nea, Thai Pho)",,,"Thai (incl. Thai Nea, Thai Phong, Phutai)",,,3539,9.49E+08,812
+125,LA,35,0,0,1029,0,0,Sui,,,Sui (incl. Alak),,,3540,6.14E+08,812
+126,LA,15,34,0,1087,188,0,"Thai (incl. Thai Nea, Thai Pho)",Bo and So,,"Thai (incl. Thai Nea, Thai Phong, Phutai)",Bo and So,,3541,1.78E+09,812
+127,LA,35,0,0,1029,0,0,Sui,,,Sui (incl. Alak),,,3542,5.04E+08,812
+128,LA,23,0,0,748,0,0,Miao,,,Miao,,,3543,9.45E+08,812
+129,LA,34,0,0,188,0,0,Bo and So,,,Bo and So,,,3544,9.69E+08,812
+130,LA,23,0,0,748,0,0,Miao,,,Miao,,,3545,2.66E+09,812
+131,LA,23,0,0,748,0,0,Miao,,,Miao,,,3546,1.26E+08,812
+132,LA,23,0,0,748,0,0,Miao,,,Miao,,,3547,4.09E+08,812
+133,LA,23,0,0,748,0,0,Miao,,,Miao,,,3548,2.40E+09,812
+134,LA,23,0,0,748,0,0,Miao,,,Miao,,,3549,2.56E+08,812
+135,LA,23,0,0,748,0,0,Miao,,,Miao,,,3550,3.55E+08,812
+136,LA,15,0,0,1087,0,0,"Thai (incl. Thai Nea, Thai Pho)",,,"Thai (incl. Thai Nea, Thai Phong, Phutai)",,,3551,8.19E+09,812
+137,LA,15,0,0,1087,0,0,"Thai (incl. Thai Nea, Thai Pho)",,,"Thai (incl. Thai Nea, Thai Phong, Phutai)",,,3552,6.09E+08,812
+138,LA,23,0,0,748,0,0,Miao,,,Miao,,,3553,1.73E+09,812
+139,LA,13,0,0,616,0,0,Lao,,,Lao,,,3554,5.83E+08,812
+140,LA,23,0,0,748,0,0,Miao,,,Miao,,,3555,7.69E+08,812
+141,LA,14,0,0,641,0,0,Lu,,,Lu,,,3556,3.69E+08,812
+142,LA,23,0,0,748,0,0,Miao,,,Miao,,,3557,9.76E+08,812
+143,LA,49,0,0,558,0,0,Khmu,,,Khmu,,,3558,1.48E+09,812
+144,LA,49,0,0,558,0,0,Khmu,,,Khmu,,,3559,1.13E+10,812
+145,LA,23,0,0,748,0,0,Miao,,,Miao,,,3560,1.18E+09,812
+146,LA,23,0,0,748,0,0,Miao,,,Miao,,,3561,5.68E+08,812
+147,LA,5,0,0,609,0,0,Lahu,,,Lahu,,,3562,1.02E+09,812
+148,LA,14,0,0,641,0,0,Lu,,,Lu,,,3563,3.96E+08,812
+149,LA,24,0,0,1229,0,0,Yao,,,Yao,,,3564,7.58E+08,812
+150,LA,49,0,0,558,0,0,Khmu,,,Khmu,,,3565,5.90E+08,812
+151,LA,13,0,0,616,0,0,Lao,,,Lao,,,3566,7.28E+08,812
+152,LA,7,0,0,430,0,0,Hani,,,"Hani (Akha, Uni, Xapho, Cosung, Cote,Khape)",,,3567,3.12E+09,812
+153,LA,14,0,0,641,0,0,Lu,,,Lu,,,3568,1.77E+09,812
+154,LA,7,0,0,430,0,0,Hani,,,"Hani (Akha, Uni, Xapho, Cosung, Cote,Khape)",,,3569,6.93E+08,812
+155,LA,24,0,0,1229,0,0,Yao,,,Yao,,,3570,8.15E+08,812
+156,LA,15,49,0,1087,558,0,"Thai (incl. Thai Nea, Thai Pho)",Khmu,,"Thai (incl. Thai Nea, Thai Phong, Phutai)",Khmu,,3571,1.53E+09,812
+157,LA,15,0,0,1087,0,0,"Thai (incl. Thai Nea, Thai Pho)",,,"Thai (incl. Thai Nea, Thai Phong, Phutai)",,,3572,5.40E+08,812
+158,LA,14,0,0,641,0,0,Lu,,,Lu,,,3573,1.53E+09,812
+159,LA,7,0,0,430,0,0,Hani,,,"Hani (Akha, Uni, Xapho, Cosung, Cote,Khape)",,,3574,3.96E+09,812
+160,LA,49,0,0,558,0,0,Khmu,,,Khmu,,,3575,1.21E+09,812
+161,LA,24,0,0,1229,0,0,Yao,,,Yao,,,3576,4.38E+08,812
+162,LA,5,0,0,609,0,0,Lahu,,,Lahu,,,3577,9.77E+08,812
+163,LA,18,0,0,1237,0,0,Yuang,,,Yuang,,,3578,4.37E+08,812
+164,LA,23,0,0,748,0,0,Miao,,,Miao,,,3579,5.70E+08,812
+165,LA,51,0,0,612,0,0,Lamet,,,Lamet,,,3580,1.37E+09,812
+166,LA,14,0,0,641,0,0,Lu,,,Lu,,,3581,6.85E+08,812
+167,LA,13,0,0,616,0,0,Lao,,,Lao,,,3582,3.26E+09,812
+168,LA,24,0,0,1229,0,0,Yao,,,Yao,,,3583,2.09E+08,812
+169,LA,14,0,0,641,0,0,Lu,,,Lu,,,3584,1.06E+09,812
+170,LA,18,0,0,1237,0,0,Yuang,,,Yuang,,,3585,1.08E+09,812
+171,LA,13,0,0,616,0,0,Lao,,,Lao,,,3586,4.58E+08,812
+172,LA,13,0,0,616,0,0,Lao,,,Lao,,,3587,2.00E+09,812
+173,LA,14,0,0,641,0,0,Lu,,,Lu,,,3588,4.97E+08,812
+174,LA,15,0,0,1087,0,0,"Thai (incl. Thai Nea, Thai Pho)",,,"Thai (incl. Thai Nea, Thai Phong, Phutai)",,,3589,3.42E+08,812
+175,LA,23,0,0,748,0,0,Miao,,,Miao,,,3590,3.98E+08,812
+176,LA,49,0,0,558,0,0,Khmu,,,Khmu,,,3591,7.60E+09,812
+177,LA,23,0,0,748,0,0,Miao,,,Miao,,,3592,6.73E+08,812
+178,LA,50,0,0,900,0,0,Phuteng,,,Phuteng (Laoteng),,,3593,5.91E+09,812
+179,LA,23,0,0,748,0,0,Miao,,,Miao,,,3594,3.51E+08,812
+180,LA,15,0,0,1087,0,0,"Thai (incl. Thai Nea, Thai Pho)",,,"Thai (incl. Thai Nea, Thai Phong, Phutai)",,,3595,8.18E+08,812
+181,LA,15,0,0,1087,0,0,"Thai (incl. Thai Nea, Thai Pho)",,,"Thai (incl. Thai Nea, Thai Phong, Phutai)",,,3596,4.56E+08,812
+182,LA,23,0,0,748,0,0,Miao,,,Miao,,,3597,6.03E+08,812
+183,LA,13,0,0,616,0,0,Lao,,,Lao,,,3598,5.07E+10,812
+184,LA,23,0,0,748,0,0,Miao,,,Miao,,,3599,3.12E+08,812
+185,LA,15,0,0,1087,0,0,"Thai (incl. Thai Nea, Thai Pho)",,,"Thai (incl. Thai Nea, Thai Phong, Phutai)",,,3600,4.23E+08,812
+186,LA,15,0,0,1087,0,0,"Thai (incl. Thai Nea, Thai Pho)",,,"Thai (incl. Thai Nea, Thai Phong, Phutai)",,,3601,7.34E+08,812
+187,LA,50,0,0,900,0,0,Phuteng,,,Phuteng (Laoteng),,,3602,1.66E+09,812
+188,LA,50,0,0,900,0,0,Phuteng,,,Phuteng (Laoteng),,,3603,4.24E+09,812
+189,LA,23,0,0,748,0,0,Miao,,,Miao,,,3604,2.37E+09,812
+190,LA,15,0,0,1087,0,0,"Thai (incl. Thai Nea, Thai Pho)",,,"Thai (incl. Thai Nea, Thai Phong, Phutai)",,,3605,1.37E+10,812
+191,LA,15,0,0,1087,0,0,"Thai (incl. Thai Nea, Thai Pho)",,,"Thai (incl. Thai Nea, Thai Phong, Phutai)",,,3606,4.97E+08,812
+192,LA,23,0,0,748,0,0,Miao,,,Miao,,,3607,4.19E+08,812
+193,LA,15,0,0,1087,0,0,"Thai (incl. Thai Nea, Thai Pho)",,,"Thai (incl. Thai Nea, Thai Phong, Phutai)",,,3608,8.05E+08,812
+194,LA,23,0,0,748,0,0,Miao,,,Miao,,,3609,3.57E+08,812
+195,LA,23,0,0,748,0,0,Miao,,,Miao,,,3610,4.87E+08,812
+196,LA,13,0,0,616,0,0,Lao,,,Lao,,,3611,4.72E+08,812
+197,LA,49,0,0,558,0,0,Khmu,,,Khmu,,,3612,7.72E+09,812
+198,LA,23,0,0,748,0,0,Miao,,,Miao,,,3613,4.99E+07,812
+199,TH,53,0,0,976,0,0,Semangs,,,Semangs,,,4864,8.25E+08,800
+200,TH,11,0,0,535,0,0,Karen,,,Karen,,,4865,3.05E+09,800
+201,TH,11,0,0,535,0,0,Karen,,,Karen,,,4866,4.14E+10,800
+202,TH,45,0,0,760,0,0,Mon (Talaing),,,Mon (Talaing),,,4867,1.84E+09,800
+203,TH,12,27,0,1004,275,0,Siamese,Chinese (Han),,Siamese (Khon-Tai),Chinese (Han),,4868,8.64E+09,800
+204,TH,12,28,0,1004,1176,0,Siamese,Vietnamese,,Siamese (Khon-Tai),Vietnamese (Kinh),,4869,6.64E+08,800
+205,TH,12,28,0,1004,1176,0,Siamese,Vietnamese,,Siamese (Khon-Tai),Vietnamese (Kinh),,4870,1.01E+09,800
+206,TH,30,0,0,557,0,0,Khmers,,,Khmers,,,4871,1.99E+09,800
+207,TH,33,0,0,592,0,0,Kui,,,Kui,,,4872,9.23E+09,800
+208,TH,30,0,0,557,0,0,Khmers,,,Khmers,,,4873,1.09E+10,800
+209,TH,23,0,0,748,0,0,Miao,,,Miao,,,4874,5.49E+08,800
+210,TH,11,0,0,535,0,0,Karen,,,Karen,,,4875,1.12E+10,800
+211,TH,23,0,0,748,0,0,Miao,,,Miao,,,4876,7.15E+08,800
+212,TH,46,0,0,1177,0,0,Wa,,,Wa (Kawa),,,4877,6.94E+08,800
+213,TH,33,0,0,592,0,0,Kui,,,Kui,,,4878,4.72E+09,800
+214,TH,33,0,0,592,0,0,Kui,,,Kui,,,4879,2.85E+09,800
+215,TH,23,0,0,748,0,0,Miao,,,Miao,,,4880,5.16E+08,800
+216,TH,12,0,0,1004,0,0,Siamese,,,Siamese (Khon-Tai),,,4881,1.23E+11,800
+217,TH,35,0,0,1029,0,0,Sui,,,Sui (incl. Alak),,,4882,1.65E+09,800
+218,TH,20,0,0,988,0,0,Shan,,,Shan,,,4883,4.87E+09,800
+219,TH,46,0,0,1177,0,0,Wa,,,Wa (Kawa),,,4884,8.44E+08,800
+220,TH,24,0,0,1229,0,0,Yao,,,Yao,,,4885,3.96E+08,800
+221,TH,5,0,0,609,0,0,Lahu,,,Lahu,,,4886,1.33E+09,800
+222,TH,49,0,0,558,0,0,Khmu,,,Khmu,,,4887,1.01E+09,800
+223,TH,24,0,0,1229,0,0,Yao,,,Yao,,,4888,4.71E+08,800
+224,TH,49,0,0,558,0,0,Khmu,,,Khmu,,,4889,3.83E+09,800
+225,TH,23,0,0,748,0,0,Miao,,,Miao,,,4890,7.57E+08,800
+226,TH,49,0,0,558,0,0,Khmu,,,Khmu,,,4891,4.95E+08,800
+227,TH,13,0,0,616,0,0,Lao,,,Lao,,,4892,2.26E+11,800
+228,TH,49,0,0,558,0,0,Khmu,,,Khmu,,,4893,2.56E+09,800
+229,TH,23,0,0,748,0,0,Miao,,,Miao,,,4894,4.04E+08,800
+230,TH,23,0,0,748,0,0,Miao,,,Miao,,,4895,4.24E+08,800
+231,TH,23,0,0,748,0,0,Miao,,,Miao,,,4896,6.17E+08,800
+232,TH,24,0,0,1229,0,0,Yao,,,Yao,,,4897,3.96E+08,800
+233,TH,46,0,0,1177,0,0,Wa,,,Wa (Kawa),,,4898,2.98E+09,800
+234,TH,30,0,0,557,0,0,Khmers,,,Khmers,,,4899,3.04E+09,800
+235,TH,33,0,0,592,0,0,Kui,,,Kui,,,4900,4.97E+08,800
+236,TH,53,0,0,976,0,0,Semangs,,,Semangs,,,4901,6.37E+08,800
+237,TH,61,0,0,265,0,0,Chaonam,,,Chaonam,,,4902,1.29E+08,800
+238,TH,12,0,0,1004,0,0,Siamese,,,Siamese (Khon-Tai),,,4903,1.35E+08,800
+239,TH,61,0,0,265,0,0,Chaonam,,,Chaonam,,,4904,1.59E+08,800
+240,TH,12,0,0,1004,0,0,Siamese,,,Siamese (Khon-Tai),,,4905,2.48E+08,800
+241,TH,12,0,0,1004,0,0,Siamese,,,Siamese (Khon-Tai),,,4906,2.69E+08,800
+242,TH,54,0,0,676,0,0,Malays of Malaya,,,Malays of Malaya,,,4907,5.60E+08,800
+243,TH,53,0,0,976,0,0,Semangs,,,Semangs,,,4908,3.53E+08,800
+244,TH,54,0,0,676,0,0,Malays of Malaya,,,Malays of Malaya,,,4909,3.55E+10,800
+245,TH,53,0,0,976,0,0,Semangs,,,Semangs,,,4910,2.27E+08,800
+246,VM,29,0,0,786,0,0,Muong,,,Muong,,,8603,3.69E+08,816
+247,VM,29,0,0,786,0,0,Muong,,,Muong,,,8604,1.12E+09,816
+248,VM,23,0,0,748,0,0,Miao,,,Miao,,,8605,4.60E+08,816
+249,VM,23,0,0,748,0,0,Miao,,,Miao,,,8606,3.47E+08,816
+250,VM,29,0,0,786,0,0,Muong,,,Muong,,,8607,1.14E+10,816
+251,VM,15,29,0,1087,786,0,"Thai (incl. Thai Nea, Thai Pho)",Muong,,"Thai (incl. Thai Nea, Thai Phong, Phutai)",Muong,,8608,7.60E+08,816
+252,VM,48,0,0,923,0,0,Puok and Ksakau,,,Puok and Ksakau,,,8609,2.87E+08,816
+253,VM,23,0,0,748,0,0,Miao,,,Miao,,,8610,3.95E+07,816
+254,VM,23,0,0,748,0,0,Miao,,,Miao,,,8611,3.84E+07,816
+255,VM,49,0,0,558,0,0,Khmu,,,Khmu,,,8612,1.36E+08,816
+256,VM,23,0,0,748,0,0,Miao,,,Miao,,,8613,1.87E+09,816
+257,VM,13,0,0,616,0,0,Lao,,,Lao,,,8614,6.97E+08,816
+258,VM,49,0,0,558,0,0,Khmu,,,Khmu,,,8615,2.09E+08,816
+259,VM,14,0,0,641,0,0,Lu,,,Lu,,,8616,1.04E+08,816
+260,VM,23,0,0,748,0,0,Miao,,,Miao,,,8617,5.17E+08,816
+261,VM,7,0,0,430,0,0,Hani,,,"Hani (Akha, Uni, Xapho, Cosung, Cote,Khape)",,,8618,3.70E+08,816
+262,VM,15,0,0,1087,0,0,"Thai (incl. Thai Nea, Thai Pho)",,,"Thai (incl. Thai Nea, Thai Phong, Phutai)",,,8619,6.35E+08,816
+263,VM,23,0,0,748,0,0,Miao,,,Miao,,,8620,3.40E+08,816
+264,VM,7,0,0,430,0,0,Hani,,,"Hani (Akha, Uni, Xapho, Cosung, Cote,Khape)",,,8621,4.73E+09,816
+265,VM,15,29,0,1087,786,0,"Thai (incl. Thai Nea, Thai Pho)",Muong,,"Thai (incl. Thai Nea, Thai Phong, Phutai)",Muong,,8622,1.02E+09,816
+266,VM,29,0,0,786,0,0,Muong,,,Muong,,,8623,3.72E+08,816
+267,VM,24,0,0,1229,0,0,Yao,,,Yao,,,8624,4.69E+08,816
+268,VM,23,0,0,748,0,0,Miao,,,Miao,,,8625,2.03E+09,816
+269,VM,24,0,0,1229,0,0,Yao,,,Yao,,,8626,1.12E+09,816
+270,VM,22,0,0,288,0,0,Chuang,,,"Chuang (incl. Padi, Tudi, Tulao, Chungcha, Phula)",,,8627,4.32E+08,816
+271,VM,17,0,0,830,0,0,Nung and Giai,,,Nung and Giai,,,8628,1.23E+09,816
+272,VM,24,0,0,1229,0,0,Yao,,,Yao,,,8629,1.31E+09,816
+273,VM,16,0,0,1067,0,0,Tay,,,Tay (Tho),,,8630,3.27E+08,816
+274,VM,23,0,0,748,0,0,Miao,,,Miao,,,8631,2.60E+09,816
+275,VM,17,0,0,830,0,0,Nung and Giai,,,Nung and Giai,,,8632,1.09E+09,816
+276,VM,14,0,0,641,0,0,Lu,,,Lu,,,8633,4.84E+08,816
+277,VM,24,0,0,1229,0,0,Yao,,,Yao,,,8634,8.76E+08,816
+278,VM,7,0,0,430,0,0,Hani,,,"Hani (Akha, Uni, Xapho, Cosung, Cote,Khape)",,,8635,4.62E+08,816
+279,VM,8,0,0,1235,0,0,Yi,,,"Yi (incl. Chila, Pupiao, Lolo)",,,8636,5.01E+08,816
+280,VM,15,0,0,1087,0,0,"Thai (incl. Thai Nea, Thai Pho)",,,"Thai (incl. Thai Nea, Thai Phong, Phutai)",,,8637,3.30E+10,816
+281,VM,23,0,0,748,0,0,Miao,,,Miao,,,8638,9.55E+08,816
+282,VM,27,0,0,275,0,0,Chinese (Han),,,Chinese (Han),,,8639,4.63E+08,816
+283,VM,24,0,0,1229,0,0,Yao,,,Yao,,,8640,5.99E+08,816
+284,VM,26,0,0,618,0,0,Lati and Lakwa,,,Lati and Lakwa,,,8641,4.69E+08,816
+285,VM,24,0,0,1229,0,0,Yao,,,Yao,,,8642,9.72E+08,816
+286,VM,22,0,0,288,0,0,Chuang,,,"Chuang (incl. Padi, Tudi, Tulao, Chungcha, Phula)",,,8643,6.81E+08,816
+287,VM,23,0,0,748,0,0,Miao,,,Miao,,,8644,5.84E+08,816
+288,VM,26,0,0,618,0,0,Lati and Lakwa,,,Lati and Lakwa,,,8645,4.22E+08,816
+289,VM,25,0,0,543,0,0,Kehlao,,,Kehlao,,,8646,3.75E+08,816
+290,VM,23,0,0,748,0,0,Miao,,,Miao,,,8647,4.57E+08,816
+291,VM,17,0,0,830,0,0,Nung and Giai,,,Nung and Giai,,,8648,5.84E+08,816
+292,VM,8,0,0,1235,0,0,Yi,,,"Yi (incl. Chila, Pupiao, Lolo)",,,8649,5.84E+08,816
+293,VM,17,0,0,830,0,0,Nung and Giai,,,Nung and Giai,,,8650,4.47E+08,816
+294,VM,16,0,0,1067,0,0,Tay,,,Tay (Tho),,,8651,3.65E+09,816
+295,VM,24,28,0,1229,1176,0,Yao,Vietnamese,,Yao,Vietnamese (Kinh),,8652,8.58E+08,816
+296,VM,19,0,0,241,0,0,Caolan,,,Caolan,,,8653,4.77E+08,816
+297,VM,17,0,0,830,0,0,Nung and Giai,,,Nung and Giai,,,8654,2.25E+08,816
+298,VM,16,0,0,1067,0,0,Tay,,,Tay (Tho),,,8655,6.62E+08,816
+299,VM,23,0,0,748,0,0,Miao,,,Miao,,,8656,2.32E+08,816
+300,VM,24,0,0,1229,0,0,Yao,,,Yao,,,8657,3.99E+09,816
+301,VM,17,0,0,830,0,0,Nung and Giai,,,Nung and Giai,,,8658,6.27E+08,816
+302,VM,24,0,0,1229,0,0,Yao,,,Yao,,,8659,4.82E+08,816
+303,VM,16,0,0,1067,0,0,Tay,,,Tay (Tho),,,8660,6.50E+08,816
+304,VM,17,0,0,830,0,0,Nung and Giai,,,Nung and Giai,,,8661,4.41E+09,816
+305,VM,24,0,0,1229,0,0,Yao,,,Yao,,,8662,1.03E+09,816
+306,VM,19,0,0,241,0,0,Caolan,,,Caolan,,,8663,6.61E+08,816
+307,VM,24,0,0,1229,0,0,Yao,,,Yao,,,8664,4.37E+08,816
+308,VM,16,0,0,1067,0,0,Tay,,,Tay (Tho),,,8665,7.28E+09,816
+309,VM,16,0,0,1067,0,0,Tay,,,Tay (Tho),,,8666,3.67E+09,816
+310,VM,28,0,0,1176,0,0,Vietnamese,,,Vietnamese (Kinh),,,8667,3.59E+10,816
+311,VM,28,0,0,1176,0,0,Vietnamese,,,Vietnamese (Kinh),,,8668,7.94E+08,816
+312,VM,27,28,0,275,1176,0,Chinese (Han),Vietnamese,,Chinese (Han),Vietnamese (Kinh),,8669,4.15E+08,816
+313,VM,27,0,0,275,0,0,Chinese (Han),,,Chinese (Han),,,8670,8.82E+08,816
+314,VM,16,24,0,1067,1229,0,Tay,Yao,,Tay (Tho),Yao,,8671,1.13E+09,816
+315,VM,24,0,0,1229,0,0,Yao,,,Yao,,,8672,6.81E+08,816
+316,VM,16,28,0,1067,1176,0,Tay,Vietnamese,,Tay (Tho),Vietnamese (Kinh),,8673,1.55E+09,816
+317,VM,24,0,0,1229,0,0,Yao,,,Yao,,,8674,6.54E+08,816
+318,VM,23,0,0,748,0,0,Miao,,,Miao,,,8675,3.77E+08,816
+319,VM,23,0,0,748,0,0,Miao,,,Miao,,,8676,2.65E+08,816
+320,VM,24,0,0,1229,0,0,Yao,,,Yao,,,8677,4.82E+08,816
+321,VM,23,0,0,748,0,0,Miao,,,Miao,,,8678,2.79E+08,816
+322,VM,24,0,0,1229,0,0,Yao,,,Yao,,,8679,1.11E+09,816
+323,VM,37,0,0,1171,0,0,Vankieu,,,"Vankieu (incl. Ruk, May, Bru, Khua, Toi-Oi)",,,8680,2.60E+09,816
+324,VM,34,0,0,188,0,0,Bo and So,,,Bo and So,,,8681,1.27E+08,816
+325,VM,30,0,0,557,0,0,Khmers,,,Khmers,,,8683,8.95E+08,816
+326,VM,55,0,0,259,0,0,Cham,,,Cham,,,8684,3.99E+08,816
+327,VM,28,30,0,1176,557,0,Vietnamese,Khmers,,Vietnamese (Kinh),Khmers,,8685,1.34E+09,816
+328,VM,28,0,0,1176,0,0,Vietnamese,,,Vietnamese (Kinh),,,8686,2.00E+08,816
+329,VM,28,30,0,1176,557,0,Vietnamese,Khmers,,Vietnamese (Kinh),Khmers,,8687,1.62E+09,816
+330,VM,30,0,0,557,0,0,Khmers,,,Khmers,,,8688,2.47E+08,816
+331,VM,28,30,0,1176,557,0,Vietnamese,Khmers,,Vietnamese (Kinh),Khmers,,8689,1.55E+09,816
+332,VM,30,0,0,557,0,0,Khmers,,,Khmers,,,8690,3.85E+08,816
+333,VM,28,30,0,1176,557,0,Vietnamese,Khmers,,Vietnamese (Kinh),Khmers,,8691,1.07E+09,816
+334,VM,55,0,0,259,0,0,Cham,,,Cham,,,8692,3.13E+08,816
+335,VM,30,32,0,557,1026,0,Khmers,Stieng,,Khmers,Stieng,,8693,2.46E+08,816
+336,VM,55,0,0,259,0,0,Cham,,,Cham,,,8694,2.74E+08,816
+337,VM,30,0,0,557,0,0,Khmers,,,Khmers,,,8695,2.28E+09,816
+338,VM,28,30,0,1176,557,0,Vietnamese,Khmers,,Vietnamese (Kinh),Khmers,,8696,1.13E+09,816
+339,VM,32,0,0,1026,0,0,Stieng,,,Stieng,,,8697,3.32E+09,816
+340,VM,55,0,0,259,0,0,Cham,,,Cham,,,8698,4.00E+08,816
+341,VM,28,0,0,1176,0,0,Vietnamese,,,Vietnamese (Kinh),,,8699,3.35E+10,816
+342,VM,28,0,0,1176,0,0,Vietnamese,,,Vietnamese (Kinh),,,8700,2.25E+09,816
+343,VM,55,0,0,259,0,0,Cham,,,Cham,,,8701,2.84E+08,816
+344,VM,55,0,0,259,0,0,Cham,,,Cham,,,8702,1.36E+09,816
+345,VM,58,0,0,929,0,0,Raglai,,,"Raglai (incl. Churu; Noang, Bih)",,,8703,4.32E+09,816
+346,VM,43,0,0,649,0,0,Ma,,,"Ma (incl. Lat, Lagia, Tolop, Kasseng, Tola)",,,8704,1.26E+10,816
+347,VM,43,0,0,649,0,0,Ma,,,"Ma (incl. Lat, Lagia, Tolop, Kasseng, Tola)",,,8705,2.86E+09,816
+348,VM,28,0,0,1176,0,0,Vietnamese,,,Vietnamese (Kinh),,,8706,8.76E+08,816
+349,VM,28,0,0,1176,0,0,Vietnamese,,,Vietnamese (Kinh),,,8707,2.28E+10,816
+350,VM,31,0,0,756,0,0,Mnong and Brao,,,Mnong and Brao,,,8708,1.34E+10,816
+351,VM,57,0,0,345,0,0,Ede,,,Ede,,,8709,1.20E+10,816
+352,VM,56,0,0,495,0,0,Jarai,,,Jarai,,,8710,1.15E+10,816
+353,VM,42,0,0,128,0,0,Banar,,,Banar,,,8711,6.74E+09,816
+354,VM,40,0,0,1254,0,0,Cham Re,,,Cham Re,,,8712,3.42E+09,816
+355,VM,41,0,0,973,0,0,Sedang,,,Sedang (incl. Rongao),,,8713,9.18E+09,816
+356,VM,39,0,0,1172,0,0,Ve,,,Ve (incl. Jeh),,,8714,2.12E+09,816
+357,VM,38,0,0,555,0,0,Khatu,,,Khatu,,,8715,3.60E+09,816
+358,VM,35,0,0,1029,0,0,Sui,,,Sui (incl. Alak),,,8716,2.22E+09,816
+359,VM,30,0,0,557,0,0,Khmers,,,Khmers,,,8717,3.32E+08,816
+360,VM,30,0,0,557,0,0,Khmers,,,Khmers,,,8718,3.53E+08,816
+361,VM,55,0,0,259,0,0,Cham,,,Cham,,,8719,2.48E+08,816
+362,VM,44,0,0,1025,0,0,Sre,,,Sre,,,8720,1.16E+09,816
+363,VM,43,0,0,649,0,0,Ma,,,"Ma (incl. Lat, Lagia, Tolop, Kasseng, Tola)",,,8721,3.45E+08,816
+364,VM,28,0,0,1176,0,0,Vietnamese,,,Vietnamese (Kinh),,,8722,5.57E+08,816
+365,VM,28,30,0,1176,557,0,Vietnamese,Khmers,,Vietnamese (Kinh),Khmers,,8723,3.66E+09,816
+366,VM,28,0,0,1176,0,0,Vietnamese,,,Vietnamese (Kinh),,,8724,2.46E+08,816
+367,VM,28,0,0,1176,0,0,Vietnamese,,,Vietnamese (Kinh),,,8725,2.11E+08,816
+368,VM,28,0,0,1176,0,0,Vietnamese,,,Vietnamese (Kinh),,,8726,2.45E+08,816
+369,VM,37,0,0,1171,0,0,Vankieu,,,"Vankieu (incl. Ruk, May, Bru, Khua, Toi-Oi)",,,8727,1.90E+09,816
+370,VM,15,0,0,1087,0,0,"Thai (incl. Thai Nea, Thai Pho)",,,"Thai (incl. Thai Nea, Thai Phong, Phutai)",,,8728,5.59E+07,816
