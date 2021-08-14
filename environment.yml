@@ -1,0 +1,25 @@
+name: mekong_hydrology
+channels:
+  - conda-forge
+
+dependencies:
+  - conda-build
+  - ipykernel
+  - jupyterlab
+  - ipywidgets
+  - matplotlib
+  - pysal
+  - geopandas
+  - pandas
+  - numpy
+  - seaborn
+  - plotly 
+
+  - python=3.8
+  - pip
+
+
+
+
+
+
