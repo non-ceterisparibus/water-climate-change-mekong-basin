@@ -10,6 +10,7 @@ dependencies:
   - matplotlib
   - pysal
   - geopandas
+  - shapely
   - pandas
   - numpy
   - seaborn
